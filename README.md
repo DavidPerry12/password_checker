@@ -34,6 +34,7 @@ The program assigns a score based on these criteria and displays a strength labe
 Open a terminal in the project folder and run:
 
 ``bash
+
 python password_checker.py
 
 The program will prompt you to enter a password and will display the strength result and feedback in the terminal.
